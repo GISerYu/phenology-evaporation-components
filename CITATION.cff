@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the associated manuscript when using these analysis materials. The manuscript is not yet published; no article DOI has been assigned."
+type: software
+title: "Total evaporation masks contrasting modeled water-loss responses to earlier spring activity"
+authors:
+  - given-names: "Yusupukadier"
+    family-names: "Zimini"
+  - given-names: "Qingjie"
+    family-names: "Zhao"
+  - given-names: "Liuyang"
+    family-names: "Zhang"
+  - given-names: "Chao"
+    family-names: "Yang"
+repository-code: "https://github.com/GISerYu/phenology-evaporation-components"
+url: "https://github.com/GISerYu/phenology-evaporation-components"
+keywords:
+  - phenology
+  - evaporation
+  - transpiration
+  - remote sensing
+
+license: MIT
