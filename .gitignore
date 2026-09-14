@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+methods/paths.local.json
+results/
+*.log
+figures/**/*.png
+figures/**/*.pdf
+figures/**/*.svg
+figures/**/*.tif
+.DS_Store
+Thumbs.db
+
+# Local duplicate archives; the existing panel parts are tracked.
+/data.zip
+/data/Dataset_S1_main_panel.csv.gz
+~$*

@@ -1,0 +1,3 @@
+# Preserve release bytes across platforms for SHA-256 verification.
+* -text
+*.gz binary
